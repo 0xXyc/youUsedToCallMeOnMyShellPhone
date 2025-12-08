@@ -1,4 +1,4 @@
-# "Windows Shellcoding for Beginners: You Used to Call me on my Shell Phone"
+# You Used to Call me on my Shell Phone: Windows Shellcoding for Beginners
 This repo will consist of my old and new PowerPoint presentation for my talk on developing and understanding Windows shellcode. 
 
 It will also be used during trainings for various different offensive cyber security trainings in 2026! 
