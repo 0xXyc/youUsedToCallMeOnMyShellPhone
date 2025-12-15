@@ -1,7 +1,7 @@
 # You Used to Call me on my Shell Phone: Windows Shellcoding for Beginners
-|--------------------------|
-|WINDOWS SHELLCODE TRAINING|
-|--------------------------|
+
+## |WINDOWS SHELLCODE TRAINING|
+
 This repo will consist of my old and new PowerPoint presentation for my talk on developing and understanding Windows shellcode. 
 
 ## What is Covered
